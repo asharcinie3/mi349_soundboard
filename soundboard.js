@@ -7,14 +7,14 @@ document.getElementById("b1").onclick = () => {
 
   document.getElementById("b2").onclick = () => {
     const audio = new Audio(
-      "cymbal.mp3"
+      "snare.mp3"
     );
     audio.play();
   };
 
   document.getElementById("b3").onclick = () => {
     const audio = new Audio(
-      "snare.mp3"
+      "cymbal.mp3"
     );
     audio.play();
   };
