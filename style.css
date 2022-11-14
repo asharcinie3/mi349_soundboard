@@ -40,7 +40,7 @@ h1 {
 }
 
 #b4 {
-    background-color: #A5CE78;
+    background-color: #ABDAFC;
     grid-column: 1;
     grid-row: 2;
     border-radius: 15px;
@@ -54,7 +54,7 @@ h1 {
 }
 
 #b6 {
-    background-color: #ABDAFC;
+    background-color: #A5CE78;
     grid-column: 3;
     grid-row: 2;
     border-radius: 15px;
