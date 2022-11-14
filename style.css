@@ -11,8 +11,8 @@ h1 {
 
 .soundboard {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 50px;
+    grid-template-columns: .75fr .75fr .75fr;
+    grid-template-rows: 100px;
     grid-gap: 10px;
 }
 
