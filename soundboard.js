@@ -1,4 +1,4 @@
-const audio = new Audio("https://www.fesliyanstudios.com/play-mp3/387");
+const audio = new Audio("bass.mp3");
 const buttons = document.querySelectorAll("button");
 
 buttons.forEach(button => {
