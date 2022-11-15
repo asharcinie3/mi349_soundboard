@@ -40,21 +40,21 @@ h1 {
 }
 
 #b4 {
-    background-color: #ABDAFC;
+    background-color: #B2FFA9;
     grid-column: 1;
     grid-row: 2;
     border-radius: 15px;
 }
 
 #b5 {
-    background-color: #DEA6A8;
+    background-color: #A27E8E;
     grid-column: 2;
     grid-row: 2;
     border-radius: 15px;
 }
 
 #b6 {
-    background-color: #A5CE78;
+    background-color: #FBA04B;
     grid-column: 3;
     grid-row: 2;
     border-radius: 15px;
